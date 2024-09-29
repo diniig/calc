@@ -1,1 +1,1 @@
-# calc module test
+# package test
