@@ -1,4 +1,4 @@
-module arith
+module calc
 
 fn test_add() {
 	r := add(1, 2)

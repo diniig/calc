@@ -1,4 +1,4 @@
-module arith
+module calc
 
 fn add(x int, y int) int {
 	println('adding {x} and {y}')
